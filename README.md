@@ -1,7 +1,7 @@
 # *insert project name*
 _____________________________________________________________________________________________________________________________________________
+![IMG_4493](https://github.com/user-attachments/assets/cae3f20d-4491-45fb-b365-4c1b68df7001)
 
-![alt text]([http://url/to/img.png](https://github.com/cc4224/cps-group19-2024/issues/1#issue-2625348010))
 **How would you interact a lamp if it was alive?**
 
 In this project we've sought out to >>>>>>>>> In this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this project
