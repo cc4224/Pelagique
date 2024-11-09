@@ -51,14 +51,17 @@ This project utilized paper tessalations in order to take advantage of natural m
 
 Inspired by Croatian artist [Goran Konjevod](https://organicorigami.com/), a sculptor with a background in mathematics and theoretical computer science, who explores the tension of paper through abstract shapes and folding techniques.
 
-# 4. Future Works
+# 4. Machine Learning Interaction
 _____________________________________________________________________________________________________________________________________________
 
-# 5. References
+# 5. Future Works
+_____________________________________________________________________________________________________________________________________________
+
+# 6. References
 _____________________________________________________________________________________________________________________________________________
 
 
-# 6. Credits (Teammates)
+# 7. Credits (Teammates)
 _____________________________________________________________________________________________________________________________________________
 
 
