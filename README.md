@@ -1,6 +1,7 @@
 # *pelagique*
 _____________________________________________________________________________________________________________________________________________
-![IMG_4493](https://github.com/user-attachments/assets/cae3f20d-4491-45fb-b365-4c1b68df7001)
+![IMG_4618 Medium](https://github.com/user-attachments/assets/26fea69d-29e0-495a-bf9c-5b87e96bdbb0)
+
 
 **How would you interact a lamp if it was alive?**
 
