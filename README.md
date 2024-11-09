@@ -17,28 +17,29 @@ ________________________________________________________________________________
 
 # 2. Specifications
 _____________________________________________________________________________________________________________________________________________
-![IMG_4483](https://github.com/user-attachments/assets/57746cc6-b2f1-4fe3-b4be-d0f828b9079c)
+![SYSTEM DIAGRAM](https://github.com/user-attachments/assets/adfaf7f5-35e2-41a8-ac98-02f48d71fc27)
 
 ## 2-1 Hardware
 
-- paper
-- clay
-- string pulley system
+- Paper
+- Laser cut & engraved acrylic
+- 3D printed arms
+- String pulley system
 
 ## 2-2 Software Requirements
 
-- oF ofxOSC
-- oF ofxOSC
-- oF ofxOSC
-- oF ofxOSC
+- (HandPose OSC)[https://github.com/faaip/HandPose-OSC]
+- Wekinator
+- Processing
+- Arduino IDE
 - oF ofxOSC
 
 ## 2-3 Features
-- oF ofxOSC
-- oF ofxOSC
-- oF ofxOSC
-- oF ofxOSC
-- oF ofxOSC
+- Osc Communication (visionOSC - wekinator - Arduino IDE)
+- Serial Communication (wekinator - Arduino)
+- Motor control
+- Articulated Paper Movement
+- Lighting Diffusion
 
 # 3. Paper Structure
 _____________________________________________________________________________________________________________________________________________
@@ -55,6 +56,7 @@ ________________________________________________________________________________
 
 # 5. References
 _____________________________________________________________________________________________________________________________________________
+
 
 # 6. Credits (Teammates)
 _____________________________________________________________________________________________________________________________________________
