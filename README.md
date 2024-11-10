@@ -3,7 +3,7 @@ ________________________________________________________________________________
 ![IMG_3742](https://github.com/user-attachments/assets/2bf94ef1-aefa-4dac-be2c-35d120e5be2a)
 
 
-**How would you interact a lamp if it was alive?**
+**What if marine organisms were gifted with a sense of percipience?**
 
 Recent research has shown that certain plants exhibit a form of sensory perception. For example, fungi and mushrooms have been observed to respond to their surroundings, with many researchers suggesting that these responses reflect a form of ‘plant-animal interaction,’ subtly bridging the behaviors of plants and animals.
 
