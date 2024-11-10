@@ -5,7 +5,11 @@ ________________________________________________________________________________
 
 **How would you interact a lamp if it was alive?**
 
-In this project we've sought out to >>>>>>>>> In this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this project
+Recent research has shown that certain plants exhibit a form of sensory perception. For example, fungi and mushrooms have been observed to respond to their surroundings, with many researchers suggesting that these responses reflect a form of ‘plant-animal interaction,’ subtly bridging the behaviors of plants and animals.
+
+Inspired by these findings and the biological movements of deep-sea organisms like corals and seagrasses, we aim to synthesize these natural patterns into a new, unified expression of life. By animating this movement, we imbue these organisms with a sense of percipience, inviting audiences into an immersive encounter. This interaction allows viewers to engage directly with these marine-inspired forms, feeling their vibrancy and experiencing a profound connection to the essence of life itself.
+
+As philosopher and naturalist John Muir once said, 'When we try to pick out anything by itself, we find it hitched to everything else in the Universe.' Through this project, we seek to celebrate the interconnectedness of all living things, inviting people to reflect on the subtleties of life’s movements and the often unseen interactions that weave together our natural world.
 
 # 1. File Directory
 _____________________________________________________________________________________________________________________________________________
