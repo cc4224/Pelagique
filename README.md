@@ -14,9 +14,9 @@ As philosopher and naturalist John Muir once said, 'When we try to pick out anyt
 # 1. File Directory
 _____________________________________________________________________________________________________________________________________________
 
- - projectIn this projectIn this projectIn this projectIn this projectIn this projectIn this projectIn
- - this projectIn this projectIn this project
- - this projectIn this projectIn this project
+ - etranger_interaction_code: This code goes straight into the arduino IDE which controls four servos via serial communication through processing to wekinator
+ - test code/four_servo_sweeptesting: This code is used in the arduino IDE to test servo movement as well as distance of angles needed
+ - wekinator handpose settings: This is a wekinator file with a pretrained
  - this projectIn this projectIn this project
  - this projectIn this projectIn this project
 
