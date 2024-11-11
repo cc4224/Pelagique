@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 **What if marine organisms were gifted with a sense of percipience?**
 
-Recent research has shown that certain plants exhibit a form of sensory perception. For example, fungi and mushrooms have been observed to respond to their surroundings, with many researchers suggesting that these responses reflect a form of ‘plant-animal interaction,’ subtly bridging the behaviors of plants and animals.
+Recent research has shown that certain plants exhibit a form of sensory perception. For example, fungi and mushrooms have been observed to respond to their surroundings, with many researchers suggesting that these responses reflect a form of ‘plant-animal interaction’ subtly bridging the behaviors of plants and animals.
 
 Inspired by these findings and the biological movements of deep-sea organisms like corals and seagrasses, we aim to synthesize these natural patterns into a new, unified expression of life. By animating this movement, we imbue these organisms with a sense of percipience, inviting audiences into an immersive encounter. This interaction allows viewers to engage directly with these marine-inspired forms, feeling their vibrancy and experiencing a profound connection to the essence of life itself.
 
@@ -62,11 +62,29 @@ ________________________________________________________________________________
 # 5. Future Works
 _____________________________________________________________________________________________________________________________________________
 
+Currently the piece is doing Hand-Tracking on the subject. In the future we would have the light do body tracking so the movements coordinate with the person's movement instead of just the following the movement of their hand only
+Would like to have gotten more research and experiment with reusable materials to make the pieces instead of using acrylic in order to fully follow our message on the human damage that is done to the coral reefs. 
+- Would have tried to create a new material or take trash from ocean to create the moving parts of the piece
+- Would have liked to experiment more with the light and how it would react to a person's proximity when in use
+- Make the servo's move more smoothly when in use
+- Experiment with color of the materials and/or light and how it reacts with each other with the movements of the pieces as well
+- More organic movement in the paper to make it more alive and less robotic
+
 # 6. References
 _____________________________________________________________________________________________________________________________________________
 
 
-# 7. Credits (Teammates)
+# 7. Credits
 _____________________________________________________________________________________________________________________________________________
+- Ritika Michael structure design and idea development
+- Jude Muchen coding and machine learning
+- Calvin Calica mechanism design and paper structure development
+
+Cyber Physical Systems, October-November 2024
+Advisor Dr. Rebecca Stewart, Charlotte Slingsby
+MSc Innovation Design Engineering
+Dyson School of Design Engineering, Imperial College London
+
+This module was funded by Design Education Trust
 
 
