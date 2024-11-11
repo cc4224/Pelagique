@@ -52,8 +52,6 @@ ________________________________________________________________________________
 
 This project utilized paper tessalations in order to take advantage of natural movement that this provides the paper. Mulberry paper has been used for centuries to diffuse light in a natural feeling way and combined with natural movement we hoped to breathe life into the paper.
 
-![Snipaste_2024-11-10_21-37-31](https://github.com/user-attachments/assets/b1018452-58fc-463d-935c-b7925bd40b61)
-
 Inspired by Croatian artist [Goran Konjevod](https://organicorigami.com/), a sculptor with a background in mathematics and theoretical computer science, who explores the tension of paper through abstract shapes and folding techniques.
 
 # 4. Machine Learning Interaction
